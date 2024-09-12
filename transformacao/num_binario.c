@@ -14,7 +14,7 @@ void binario(int n){
 int main() {
     int n;
     
-    printf("Digite um valor decimal: ");
+    printf("Digite um valor: ");
     scanf("%d", &n);
     
     binario(n);
